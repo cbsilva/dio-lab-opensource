@@ -9,4 +9,4 @@ Neste atual momento, estou em fase de transição para área de Dados.
 
 # Referência
 
-[![DIO Lab OpenSource](https://github.com/cbsilva/dio-lab-open-source/tree/main/community)
+[DIO Lab OpenSource](https://github.com/cbsilva/dio-lab-open-source/tree/main/community)
